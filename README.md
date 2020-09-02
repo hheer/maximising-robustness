@@ -27,8 +27,8 @@ The standard networks are accessible in the folder networks.
 ### C. Python Code
 
 The Python script maxClustering_2edges.py contains the code to run the algorithms for m=2 edges.
-The Python script mxClustering_landscapebased.py contains the code to run the algorithms for more than 2 edges.
-The Python script RobustnessSimulation.py contains the code to run the robustness simulations. In order to execute the code, the directories may have to be updated and the connection parameters to access the database for the landscape-based networks have to be specified (see lines 11 and 18 of the Python script).
+The Python script maxClustering_landscapebased.py contains the code to run the algorithms for more than 2 edges.
+The Python script RobustnessSimulation.py contains the code to run the robustness simulations. In order to execute the code, the directories may have to be updated and the connection parameters to access the database for the landscape-based networks have to be specified.
 
 For suggestions or requests for further information please contact the corresponding author Henriette Heer:  
 heer@uni-koblenz.de  
